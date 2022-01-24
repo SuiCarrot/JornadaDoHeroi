@@ -1,6 +1,3 @@
-// DATA DE ENTREGA DIA 30/01 DOMINGO
-//setTimeout(() => {    comando/função aqui    }, 5000);
-
 var prompt = require("prompt-sync")();
 let vitorias = 0;
 let derrotas = 0;
