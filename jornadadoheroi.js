@@ -193,11 +193,11 @@ if (vitorias == 0) {
     Felizmente, para você, não foi um total fracasso e você ainda vai ter mais uma chance. 
     Não falhe na próxima ou você irá perder mais do que sua recompensa.`);
 } else if (vitorias == 3) {
-  console.log(`\n- ${nome}), saiba que a média não é algo que a gente tolere na guilda. Devido ao seu histórico, 
+  console.log(`\n- ${nome}, saiba que a média não é algo que a gente tolere na guilda. Devido ao seu histórico, 
   desta vez irei fazer vista grossa, mas não espere receber toda a recompensa com esses fracassos.`);
 } else if (vitorias == 4) {
   console.log(
-    `\n- ${nome}), muito bem. Deixarei uma recomendação na guilda. Espere mais trabalhos como esse.`
+    `\n- ${nome}, muito bem. Deixarei uma recomendação na guilda. Espere mais trabalhos como esse.`
   );
 } else if (vitorias == 5) {
   console.log(`\n- Maravilhoso, ${nome} eu sabia que ter te contratado era a melhor opção. Além de te recomendar na guilda para outros trabalhos, 
